@@ -4,3 +4,5 @@ venv
 
 # environment file
 .env
+
+__pycache__/
